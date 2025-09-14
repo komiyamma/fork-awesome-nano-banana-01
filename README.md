@@ -2,6 +2,7 @@
 # Awesome 🍌 Nano Banana Images ✨
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
+[![日本語](https://img.shields.io/badge/日本語-クリック-blue)](README.ja.md)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README_en.md)
 [![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README.md)
 <a href="https://github.com/JimmyLv/awesome-nano-banana/stargazers">
